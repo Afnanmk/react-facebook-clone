@@ -1,3 +1,11 @@
+# React Facebook Clone
+
+#### Technolgies used:
+- React
+- Css
+- Firebase (database & Auth)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
